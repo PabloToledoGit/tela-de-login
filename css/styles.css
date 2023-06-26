@@ -1,0 +1,14 @@
+:root {
+
+    --cor-preto:#000000;
+    --cor-azul: #3BF1F4;
+    --cor-hover:#ffffff;
+
+  }
+  body{
+
+    background-color:var(--cor-preto) ;
+
+}
+
+
