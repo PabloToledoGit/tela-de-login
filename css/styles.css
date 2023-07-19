@@ -1,14 +1,10 @@
-:root {
+body{
 
-    --cor-preto:#000000;
-    --cor-azul: #3BF1F4;
-    --cor-hover:#ffffff;
-
-  }
-  body{
-
-    background-color:var(--cor-preto) ;
-
+    box-sizing: border-box;
+    color: #2F3367;
 }
 
+.esquerda{
 
+    background-image: url("/img/imagemchuva.svg");
+}
