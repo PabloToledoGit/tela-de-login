@@ -11,3 +11,11 @@
 
     color: white;
 }
+
+.icons{
+
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    margin-left: 1rem;
+}
